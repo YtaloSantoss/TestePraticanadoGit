@@ -1,0 +1,11 @@
+Terminal com git
+Ciclo de vida dos arquivos 
+Visualizando os logs
+Visualizando as diferenças 
+Desfazendo alterações
+Branchs
+Merge
+Repositórios github
+Baixando as atualizações de um projeto 
+Ignorando Arquivos 
+Chave SSH
